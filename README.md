@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **ERP Project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Research Methodology**
+
+- 🤝 I’m looking for help with **Bengali Student Chatbot**
 
 - 📫 How to reach me **info.arafat.me@gmail.com**
 
