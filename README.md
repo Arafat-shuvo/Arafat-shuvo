@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Arafat Hossain</h1>
 <h3 align="center">Md. Arafat Hossain | Data Analyst | Turning Data into Actionable Insights</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafat-shuvo" alt="arafat-shuvo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="arafat-shuvo" /></a> </p>
 
 - 🔭 I’m currently working on **ERP Project**
 
