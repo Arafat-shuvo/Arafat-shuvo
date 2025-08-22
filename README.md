@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ERP Project**
 
-- 🌱 I’m currently learning **Research Methodology**
+- 🌱 I’m currently learning **Research Methodology And AI Agent**
 
 - 🤝 I’m looking for help with **Bengali Student Chatbot**
 
