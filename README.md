@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Early Detection of Alzheimer's Disease Using fMRI Data**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 🤝 I’m looking for help with **U-Net**
 
