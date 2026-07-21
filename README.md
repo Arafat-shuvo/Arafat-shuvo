@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 🤝 I’m looking for help with **ResNet 152**
+- 🤝 I’m looking for help with **U-Net**
 
 - 📝 I regularly write articles on [https://aiwitharafat.blogspot.com/](https://aiwitharafat.blogspot.com/)
 
