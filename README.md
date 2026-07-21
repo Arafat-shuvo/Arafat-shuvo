@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Arafat Hossain</h1>
-<h3 align="center">A Research Scientist (AI/ML) from Bangladesh</h3>
+<h3 align="center">Computer Vision Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="arafat-shuvo" /> </p>
 
