@@ -58,19 +58,7 @@ My research interests focus on developing reliable and efficient Deep Learning m
 
 ---
 
-## 🚀 Featured Research & Projects
 
-| Project | Description | Technology |
-|---|---|---|
-| Brain Tumor Segmentation | MRI-based tumor segmentation using U-Net architectures | PyTorch, CNN |
-| SE-UNet++ | Attention-enhanced nested U-Net for medical image segmentation | PyTorch |
-| Alzheimer's Detection | Early detection research using fMRI data | Deep Learning |
-| PyTorch Learning Repository | Structured learning resources and practical implementations | Python, PyTorch |
-| Django CRUD Application | Database-driven web application | Django, SQLite |
-
-Explore more projects on my [GitHub Repositories](https://github.com/Arafat-shuvo?tab=repositories).
-
----
 
 ## 📊 GitHub Statistics
 
