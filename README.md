@@ -20,6 +20,7 @@ My research interests focus on developing reliable and efficient Deep Learning m
 - 📊 Exploring **Alzheimer's Disease Detection using fMRI Data**
 - 🌱 Currently advancing my knowledge of **PyTorch and Advanced Deep Learning**
 - 🎯 Interested in **AI Research, Model Optimization, and Medical AI**
+- 💻 Exploring **Django and FastAPI for AI Model Deployment**
 - 📝 Technical Articles: [AI with Arafat](https://aiwitharafat.blogspot.com/)
 - 📫 Email: **info.arafat.me@gmail.com**
 
@@ -42,52 +43,63 @@ My research interests focus on developing reliable and efficient Deep Learning m
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
 ### AI & Machine Learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 </p>
 
-### Data Science & Development
+### Data Science & Scientific Computing
+
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,git,github,linux,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
+### Web Development & API Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,html,css" />
 </p>
 
 ---
 
-
-
 ## 📊 GitHub Statistics
-
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Arafat-shuvo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
+---
 
 ## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md.%20arafat%20hossain/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/arafats" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" alt="Kaggle"/>
   </a>
   <a href="https://www.facebook.com/arafat%20shuvo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="Facebook"/>
   </a>
   <a href="https://leetcode.com/arafat-shuvo/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/md.%20arafat%20hossain" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="40" height="40" alt="HackerRank"/>
-</a>
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="40" height="40" alt="HackerRank"/>
+  </a>
 </p>
 
 ---
