@@ -86,8 +86,8 @@ My research interests focus on developing reliable and efficient Deep Learning m
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" />
   </a>
   <a href="https://www.hackerrank.com/md.%20arafat%20hossain" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" />
-  </a>
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="40" height="40" alt="HackerRank"/>
+</a>
 </p>
 
 ---
