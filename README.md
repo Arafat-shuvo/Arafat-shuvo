@@ -54,10 +54,13 @@ My research interests focus on developing reliable and efficient Deep Learning m
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 </p>
 
+
+
 ### Data Science & Scientific Computing
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
 </p>
 
 ### Web Development & API Frameworks
