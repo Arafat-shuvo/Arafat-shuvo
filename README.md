@@ -1,34 +1,130 @@
-<h1 align="center">Hi 👋, I'm Md. Arafat Hossain</h1>
-<h3 align="center">Computer Vision Specialist</h3>
+# 👋 Hi, I'm Md. Arafat Hossain
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="arafat-shuvo" /> </p>
+### AI Researcher | Computer Vision | Deep Learning | Medical Image Analysis
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafat-shuvo" alt="arafat-shuvo" /></a> </p>
-
-- 🔭 I’m currently working on **Early Detection of Alzheimer's Disease Using fMRI Data**
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 🤝 I’m looking for help with **U-Net**
-
-- 📝 I regularly write articles on [https://aiwitharafat.blogspot.com/](https://aiwitharafat.blogspot.com/)
-
-- 📫 How to reach me **info.arafat.me@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md. arafat hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. arafat hossain" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/arafats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arafats" height="30" width="40" /></a>
-<a href="https://fb.com/arafat shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arafat shuvo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/md. arafat hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="md. arafat hossain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arafat-shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arafat-shuvo" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arafat-shuvo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Arafat-shuvo?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafat-shuvo&show_icons=true&locale=en&layout=compact" alt="arafat-shuvo" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat-shuvo&show_icons=true&locale=en" alt="arafat-shuvo" /></p>
+I am an AI Researcher from Bangladesh with a Master's degree in Information Technology from Jahangirnagar University.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-shuvo&" alt="arafat-shuvo" /></p>
+My research interests focus on developing reliable and efficient Deep Learning models for Computer Vision and Medical Image Analysis.
+
+- 🔬 Researching **Medical Image Analysis and Computer Vision**
+- 🧠 Working on **Brain Tumor Segmentation using Deep Learning**
+- 📊 Exploring **Alzheimer's Disease Detection using fMRI Data**
+- 🌱 Currently advancing my knowledge of **PyTorch and Advanced Deep Learning**
+- 🎯 Interested in **AI Research, Model Optimization, and Medical AI**
+- 📝 Technical Articles: [AI with Arafat](https://aiwitharafat.blogspot.com/)
+- 📫 Email: **info.arafat.me@gmail.com**
+
+---
+
+## 🔬 Research Interests
+
+- Deep Learning and Neural Networks
+- Computer Vision
+- Medical Image Analysis
+- Brain Tumor Segmentation
+- Alzheimer's Disease Detection
+- MRI and fMRI Image Analysis
+- U-Net and U-Net++ Architectures
+- Attention Mechanisms
+- Model Optimization and Evaluation
+
+---
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+</p>
+
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+### Data Science & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,git,github,linux,mysql,html,css" />
+</p>
+
+---
+
+## 🚀 Featured Research & Projects
+
+| Project | Description | Technology |
+|---|---|---|
+| Brain Tumor Segmentation | MRI-based tumor segmentation using U-Net architectures | PyTorch, CNN |
+| SE-UNet++ | Attention-enhanced nested U-Net for medical image segmentation | PyTorch |
+| Alzheimer's Detection | Early detection research using fMRI data | Deep Learning |
+| PyTorch Learning Repository | Structured learning resources and practical implementations | Python, PyTorch |
+| Django CRUD Application | Database-driven web application | Django, SQLite |
+
+Explore more projects on my [GitHub Repositories](https://github.com/Arafat-shuvo?tab=repositories).
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arafat-shuvo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat-shuvo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arafat-shuvo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arafat-shuvo&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafat-shuvo&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/md.%20arafat%20hossain/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/arafats" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" />
+  </a>
+  <a href="https://www.facebook.com/arafat%20shuvo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
+  </a>
+  <a href="https://leetcode.com/arafat-shuvo/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/md.%20arafat%20hossain" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building Intelligent Systems Through Research and Innovation.</b>
+  <br/>
+  ⭐ Feel free to explore my repositories and collaborate on AI research projects!
+</p>
