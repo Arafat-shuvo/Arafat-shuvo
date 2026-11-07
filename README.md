@@ -88,7 +88,7 @@ My research interests focus on developing reliable and efficient Deep Learning m
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/md.%20arafat%20hossain/" target="_blank">
+  <a href="https://www.linkedin.com/in/arafats" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/arafats" target="_blank">
