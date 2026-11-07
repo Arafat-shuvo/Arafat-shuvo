@@ -43,7 +43,7 @@ My research interests focus on developing reliable and efficient Deep Learning m
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
 ### AI & Machine Learning
