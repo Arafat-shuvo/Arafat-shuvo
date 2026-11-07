@@ -65,8 +65,6 @@ My research interests focus on developing reliable and efficient Deep Learning m
 
 ### Web Development & API Frameworks
 
-### Web Development & API Frameworks
-
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
