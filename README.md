@@ -62,10 +62,7 @@ My research interests focus on developing reliable and efficient Deep Learning m
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arafat-shuvo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat-shuvo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Arafat-shuvo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
