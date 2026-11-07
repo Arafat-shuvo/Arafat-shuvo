@@ -112,9 +112,6 @@ My research interests focus on developing reliable and efficient Deep Learning m
   <a href="https://www.facebook.com/arafat%20shuvo" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="Facebook"/>
   </a>
-  <a href="https://leetcode.com/arafat-shuvo/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode"/>
-  </a>
   <a href="https://www.hackerrank.com/md.%20arafat%20hossain" target="_blank">
     <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="40" height="40" alt="HackerRank"/>
   </a>
