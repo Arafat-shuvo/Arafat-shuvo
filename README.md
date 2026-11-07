@@ -83,23 +83,7 @@ Explore more projects on my [GitHub Repositories](https://github.com/Arafat-shuv
   <img src="https://streak-stats.demolab.com?user=Arafat-shuvo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arafat-shuvo&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafat-shuvo&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
