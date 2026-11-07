@@ -77,13 +77,15 @@ My research interests focus on developing reliable and efficient Deep Learning m
 ### Web Development & API Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,bootstrap" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 ### Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,html,css" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
 ---
