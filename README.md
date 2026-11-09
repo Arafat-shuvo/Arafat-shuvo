@@ -113,16 +113,20 @@ My research interests focus on developing reliable and efficient Deep Learning m
 </div>
 
 
-
-## ✍️ Dev Quote
-
+## ✍️ Dev Quotes
 
 <p align="center">
-  <i>"Life is like riding a bicycle. To keep your balance, you must keep moving."</i>
-  <br/>
-  <b>— Albert Einstein</b>
+  <img src="https://img.shields.io/badge/THOUGHTS-000000?style=for-the-badge&logo=quote&logoColor=white" />
 </p>
 
+<p align="center">
+  <br/>
+  <i>"I was always a late developer — in every field."</i>
+  <br/><br/>
+  <strong>— Keith Allen</strong>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:00F7FF&height=2&section=footer" width="65%" />
+</p>
 
 
 
