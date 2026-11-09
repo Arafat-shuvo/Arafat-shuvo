@@ -1,5 +1,15 @@
 # 👋 Hi, I'm Md. Arafat Hossain
 
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"><img src="assets/light/s04.svg" width="100%" alt="Tools I work with"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/light/stack.svg" width="100%" alt="PyTorch, TensorFlow, OpenCV, scikit-learn, Python, NumPy, Pandas, Matplotlib, Plotly, Django, FastAPI, Bootstrap, C, Git, GitHub, Linux, MySQL, HTML, CSS, Power BI, MS Office"></picture>
+<br><br>
+
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=AI+Researcher;Deep+Learning+Enthusiast;Computer+Vision+Researcher;Medical+Image+Analysis;Exploring+AI+%26+Data+Science" alt="Typing SVG" />
