@@ -33,15 +33,37 @@ My research interests focus on developing reliable and efficient Deep Learning m
 
 ## 🔬 Research Interests
 
-- Deep Learning and Neural Networks
-- Computer Vision
-- Medical Image Analysis
-- Brain Tumor Segmentation
-- Alzheimer's Disease Detection
-- MRI and fMRI Image Analysis
-- U-Net and U-Net++ Architectures
-- Attention Mechanisms
-- Model Optimization and Evaluation
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><h3>🧠 Core AI</h3></td>
+    <td align="center" width="33%"><h3>🩻 Medical Imaging</h3></td>
+    <td align="center" width="33%"><h3>🏗️ Methods</h3></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Deep%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=00F7FF" alt="Deep Learning" /><br/><br/>
+      <img src="https://img.shields.io/badge/Neural%20Networks-0D1117?style=for-the-badge&logoColor=00F7FF" alt="Neural Networks" /><br/><br/>
+      <img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=00F7FF" alt="Computer Vision" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Medical%20Image%20Analysis-0D1117?style=for-the-badge&logoColor=00F7FF" alt="Medical Image Analysis" /><br/><br/>
+      <img src="https://img.shields.io/badge/MRI%20%26%20fMRI%20Analysis-0D1117?style=for-the-badge&logoColor=00F7FF" alt="MRI and fMRI Analysis" /><br/><br/>
+      <img src="https://img.shields.io/badge/Brain%20Tumor%20Segmentation-0D1117?style=for-the-badge&logoColor=00F7FF" alt="Brain Tumor Segmentation" /><br/><br/>
+      <img src="https://img.shields.io/badge/Alzheimer%27s%20Detection-0D1117?style=for-the-badge&logoColor=00F7FF" alt="Alzheimer's Disease Detection" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/U--Net-0D1117?style=for-the-badge&logoColor=00F7FF" alt="U-Net" /><br/><br/>
+      <img src="https://img.shields.io/badge/U--Net%2B%2B-0D1117?style=for-the-badge&logoColor=00F7FF" alt="U-Net++" /><br/><br/>
+      <img src="https://img.shields.io/badge/Attention%20Mechanisms-0D1117?style=for-the-badge&logoColor=00F7FF" alt="Attention Mechanisms" /><br/><br/>
+      <img src="https://img.shields.io/badge/Model%20Optimization-0D1117?style=for-the-badge&logoColor=00F7FF" alt="Model Optimization" /><br/><br/>
+      <img src="https://img.shields.io/badge/Model%20Evaluation-0D1117?style=for-the-badge&logoColor=00F7FF" alt="Model Evaluation" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=40&lines=Building+reliable+models+for+medical+diagnosis;From+MRI+scans+to+clinical+insight" alt="Research tagline" />
+</p>
 
 ---
 
