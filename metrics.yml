@@ -1,0 +1,20 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          base: ""                       # turn off the default sections
+          plugin_isocalendar: yes        # the 3D calendar + streak stats
+          plugin_isocalendar_duration: half-year
+          # config_timezone: Your/Timezone   # optional, e.g. Asia/Dhaka
