@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Md. Arafat Hossain
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI Researcher;Computer Vision;Deep Learning;Medical Image Analysis;Always+Learning+New+Things" alt="Typing animation" />
+</p>
+
+
 ### AI Researcher | Computer Vision | Deep Learning | Medical Image Analysis
 
 <p align="center">
