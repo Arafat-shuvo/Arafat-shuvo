@@ -16,25 +16,19 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  I am an AI Researcher from Bangladesh with a Master's degree in Information Technology from Jahangirnagar University.
-</p>
+I am an AI Researcher from Bangladesh with a Master's degree in Information Technology from Jahangirnagar University.
 
-<p align="center">
-  My research interests focus on developing reliable and efficient Deep Learning models for Computer Vision and Medical Image Analysis.
-</p>
+My research interests focus on developing reliable and efficient Deep Learning models for Computer Vision and Medical Image Analysis.
 
-<p align="center">
-  🔬 Researching <b>Medical Image Analysis and Computer Vision</b><br/><br/>
-  🧠 Working on <b>Brain Tumor Segmentation using Deep Learning</b><br/><br/>
-  📊 Exploring <b>Alzheimer's Disease Detection using fMRI Data</b><br/><br/>
-  🌱 Currently advancing my knowledge of <b>PyTorch and Advanced Deep Learning</b><br/><br/>
-  🎯 Interested in <b>AI Research, Model Optimization, and Medical AI</b><br/><br/>
-  💻 Exploring <b>Django and FastAPI for AI Model Deployment</b><br/><br/>
-  📝 Technical Articles: <a href="https://aiwitharafat.blogspot.com/">AI with Arafat</a><br/><br/>
-  📫 Email: <b>info.arafat.me@gmail.com</b>
-</p>
----
+- 🔬 Researching **Medical Image Analysis and Computer Vision**
+- 🧠 Working on **Brain Tumor Segmentation using Deep Learning**
+- 📊 Exploring **Alzheimer's Disease Detection using fMRI Data**
+- 🌱 Currently advancing my knowledge of **PyTorch and Advanced Deep Learning**
+- 🎯 Interested in **AI Research, Model Optimization, and Medical AI**
+- 💻 Exploring **Django and FastAPI for AI Model Deployment**
+- 📝 Technical Articles: [AI with Arafat](https://aiwitharafat.blogspot.com/)
+- 📫 Email: **info.arafat.me@gmail.com**
+
 
 ## 🔬 Research Interests
 
