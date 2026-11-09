@@ -37,7 +37,7 @@ My research interests focus on developing reliable and efficient Deep Learning m
   <tr>
     <td align="center" width="33%"><h3>🧠 Core AI</h3></td>
     <td align="center" width="33%"><h3>⚕️ Medical Imaging</h3></td>
-    <td align="center" width="33%"><h3>🏗️ Methods</h3></td>
+    <td align="center" width="33%"><h3>🧩 Methods</h3></td>
   </tr>
   <tr>
     <td align="center" valign="top">
