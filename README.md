@@ -2,12 +2,11 @@
 
 <br>
 
+<img src="tools-title.svg" width="100%" alt="Tools I work with">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"><img src="assets/light/s04.svg" width="100%" alt="Tools I work with"></picture>
+<img src="tools-stack.svg" width="100%" alt="PyTorch, TensorFlow, OpenCV, scikit-learn, Python, NumPy, Pandas, Matplotlib, Plotly, Django, FastAPI, Bootstrap, C, Git, GitHub, Linux, MySQL, HTML, CSS, Power BI, MS Office">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/light/stack.svg" width="100%" alt="PyTorch, TensorFlow, OpenCV, scikit-learn, Python, NumPy, Pandas, Matplotlib, Plotly, Django, FastAPI, Bootstrap, C, Git, GitHub, Linux, MySQL, HTML, CSS, Power BI, MS Office"></picture>
 <br><br>
-
 
 
 
