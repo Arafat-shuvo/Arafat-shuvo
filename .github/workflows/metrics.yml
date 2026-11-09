@@ -14,17 +14,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Check token is set
-        run: |
-          if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
-            echo "METRICS_TOKEN is EMPTY"
-          else
-            echo "METRICS_TOKEN is set"
-          fi
-
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: Arafat-shuvo
           filename: github-metrics.svg
           base: ""
