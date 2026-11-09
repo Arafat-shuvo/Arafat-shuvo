@@ -100,6 +100,20 @@ My research interests focus on developing reliable and efficient Deep Learning m
 
 ---
 
+
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
+</div>
+
+
+
+
+
+
+
+
 ## 🤝 Connect With Me
 
 <p align="left">
