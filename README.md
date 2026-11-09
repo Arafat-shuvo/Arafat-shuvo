@@ -1,14 +1,7 @@
 # 👋 Hi, I'm Md. Arafat Hossain
 
 
-
-
-
-<img src="tools-title.svg" width="100%" alt="Tools I work with">
-
-<img src="tools-stack.svg" width="100%" alt="PyTorch, TensorFlow, OpenCV, scikit-learn, Python, NumPy, Pandas, Matplotlib, Plotly, Django, FastAPI, Bootstrap, C, Git, GitHub, Linux, MySQL, HTML, CSS, Power BI, MS Office">
-
-<br><br>
+<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=AI+Researcher;Deep+Learning+Enthusiast;Computer+Vision+Researcher;Medical+Image+Analysis;Exploring+AI+%26+Data+Science" alt="Typing SVG" /></p>  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arafat-shuvo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
