@@ -6,6 +6,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arafat-shuvo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Arafat-shuvo?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Role-AI%20Researcher-00F7FF?style=flat&logo=openai&logoColor=black" alt="AI Researcher" />
+  <img src="https://img.shields.io/badge/Focus-Medical%20Image%20Analysis-0e75b6?style=flat" alt="Medical Image Analysis" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-006a4e?style=flat&logo=googlemaps&logoColor=white" alt="Bangladesh" />
+  <img src="https://img.shields.io/badge/Open%20to-Research%20Collaboration-success?style=flat" alt="Open to Collaboration" />
 </p>
 
 ---
