@@ -114,7 +114,17 @@ My research interests focus on developing reliable and efficient Deep Learning m
 
 
 
+## ✍️ Dev Quote
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+</p>
+
+<p align="center">
+  <i>"Life is like riding a bicycle. To keep your balance, you must keep moving."</i>
+  <br/>
+  <b>— Albert Einstein</b>
+</p>
 
 
 
@@ -138,8 +148,12 @@ My research interests focus on developing reliable and efficient Deep Learning m
 
 ---
 
+
+
+
 <p align="center">
   <b>Building Intelligent Systems Through Research and Innovation.</b>
   <br/>
   ⭐ Feel free to explore my repositories and collaborate on AI research projects!
 </p>
+
