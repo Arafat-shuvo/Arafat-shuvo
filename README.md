@@ -49,53 +49,44 @@ My research interests focus on developing reliable and efficient Deep Learning m
 
 ### Programming Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
 ### AI & Machine Learning
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 </p>
 
-
-
 ### Data Science & Scientific Computing
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
 </p>
 
+### Data Visualization
 
-### Data Science & Scientific Computing
-
-<p>
-  
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="45" height="45" alt="Plotly"/>
 </p>
 
-
-
 ### Web Development & API Frameworks
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=django,fastapi,bootstrap" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-
 ### Tools & Technologies
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,html,css" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
-
----
 
 ## 📊 GitHub Statistics
 
