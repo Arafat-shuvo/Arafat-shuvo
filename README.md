@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Md. Arafat Hossain
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI Researcher;Computer Vision;Deep Learning;Medical Image Analysis;Always+Learning+New+Things" alt="Typing animation" />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=AI+Researcher;Deep+Learning+Enthusiast;Computer+Vision+Researcher;Medical+Image+Analysis;Exploring+AI+%26+Data+Science" alt="Typing SVG" />
+</p>
 
 ### AI Researcher | Computer Vision | Deep Learning | Medical Image Analysis
 
