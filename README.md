@@ -167,7 +167,6 @@ My research interests focus on developing reliable and efficient Deep Learning m
 ---
 
 
-![My GitHub activity](./github-metrics.svg)
 
 
 
