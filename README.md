@@ -138,9 +138,11 @@ My research interests focus on developing reliable and efficient Deep Learning m
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=4000&pause=1500&color=00F7FF&center=true&vCenter=true&width=850&height=80&lines=I+was+always+a+late+developer+%E2%80%94;in+every+field." alt="Animated Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=4000&pause=1500&color=00F7FF&center=true&vCenter=true&width=850&height=80&lines="AI can augment our own intelligence, helping us to make better decisions and achieve more than we ever could alone."
+
+" alt="Animated Quote" />
   <br/>
-  <strong>— Keith Allen</strong>
+  <strong>— Andrew Ng</strong>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:00F7FF&height=2&section=footer" width="65%" />
 </p>
