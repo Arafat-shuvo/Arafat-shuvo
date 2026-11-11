@@ -134,17 +134,13 @@ My research interests focus on developing reliable and efficient Deep Learning m
 
 ## ✍️ Dev Quotes
 
-<p align="center">
-  <img src="https://img.shields.io/badge/THOUGHTS-000000?style=for-the-badge&logo=quote&logoColor=white" />
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=4000&pause=1500&color=00F7FF&center=true&vCenter=true&width=850&height=100&lines=AI+can+augment+our+own+intelligence%2C+helping+us+to+make+better+decisions+and+achieve+more+than+we+ever+could+alone." alt="Animated Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=4000&pause=1500&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=AI%20can%20augment%20our%20own%20intelligence%2C%20helping%20us%20to%20make%20better%20decisions%20and%20achieve%20more%20than%20we%20ever%20could%20alone." alt="Animated Quote" />
   <br/>
   <strong>— Andrew Ng</strong>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:00F7FF&height=2&section=footer" width="65%" />
 </p>
+
 
 
 ## 🤝 Connect With Me
