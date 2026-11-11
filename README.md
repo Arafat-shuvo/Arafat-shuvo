@@ -131,6 +131,7 @@ My research interests focus on developing reliable and efficient Deep Learning m
 </div>
 
 
+
 ## ✍️ Dev Quotes
 
 <p align="center">
@@ -138,9 +139,7 @@ My research interests focus on developing reliable and efficient Deep Learning m
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=4000&pause=1500&color=00F7FF&center=true&vCenter=true&width=850&height=80&lines="AI can augment our own intelligence, helping us to make better decisions and achieve more than we ever could alone."
-
-" alt="Animated Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=4000&pause=1500&color=00F7FF&center=true&vCenter=true&width=850&height=100&lines=AI+can+augment+our+own+intelligence%2C+helping+us+to+make+better+decisions+and+achieve+more+than+we+ever+could+alone." alt="Animated Quote" />
   <br/>
   <strong>— Andrew Ng</strong>
   <br/><br/>
